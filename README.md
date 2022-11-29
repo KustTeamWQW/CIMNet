@@ -3,7 +3,7 @@ This is a PyTorch implementation of CIMNet: Complementary Information Mining Net
 
 
 
-![image-20221124104245787](figure/CIMNet.png)
+![image-20221124104245787](figure/CIMNetmodel.png)
 
 
 
